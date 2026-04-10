@@ -1,4 +1,4 @@
-cd "C:\Users\LAVANYA\OneDrive\Desktop\Lab Exp-1"
+cd "C:\Users\xxx\OneDrive\Desktop\Lab Exp-1"
 
 git init
 git add .
