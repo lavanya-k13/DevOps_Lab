@@ -1,4 +1,4 @@
-# Git Commands 
+# Experiment No. 2 -  Git Commands 
 
 cd "C:\Users\xxx\OneDrive\Desktop\Lab Exp-1"
 
